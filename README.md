@@ -3,6 +3,8 @@
 **QRコードのリンクを開くやつ InDesign版**  
 Adobe InDesign上で選択したQRコードを読み取り、検出したURLをブラウザで開くためのスクリプトです。
 
+QRコードは株式会社デンソーウェーブの登録商標です。
+
 ## 概要
 
 このスクリプトは、InDesignドキュメント上で選択中のQRコードらしき配置画像・オブジェクトを一時PNGとして書き出し、`zbarimg` で読み取ったURLをSafariまたは既定のブラウザで開きます。
@@ -32,9 +34,8 @@ brew install zbar
 1. OpenSelectedQRCodeURL_InDesign.jsx をダウンロードします。
 2. InDesignのScripts Panelフォルダに入れます。
 
-例：
-
-/Users/ユーザー名/Library/Preferences/Adobe InDesign/Version XX.0-J/ja_JP/Scripts/Scripts Panel//Users/ユーザー名/Library/Preferences/Adobe InDesign/Version XX.0-J/ja_JP/Scripts/Scripts Panel/
+　　例：
+　　　　/Users/ユーザー名/Library/Preferences/Adobe InDesign/Version XX.0-J/ja_JP/Scripts/Scripts Panel//Users/ユーザー名/Library/Preferences/Adobe InDesign/Version XX.0-J/ja_JP/Scripts/Scripts Panel/
 
 3. InDesignを起動します。
 4. ウィンドウ > ユーティリティ > スクリプト からスクリプトパネルを開きます。
