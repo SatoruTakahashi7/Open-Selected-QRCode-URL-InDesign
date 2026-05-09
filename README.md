@@ -34,7 +34,7 @@ brew install zbar
 1. OpenSelectedQRCodeURL_InDesign.jsx をダウンロードします。
 2. InDesignのScripts Panelフォルダに入れます。
 
-　　例：
+　　例：  
   /Users/ユーザー名/Library/Preferences/Adobe InDesign/Version XX.0-J/ja_JP/Scripts/Scripts Panel//Users/ユーザー名/Library/Preferences/Adobe InDesign/Version XX.0-J/ja_JP/Scripts/Scripts Panel/
 
 3. InDesignを起動します。
