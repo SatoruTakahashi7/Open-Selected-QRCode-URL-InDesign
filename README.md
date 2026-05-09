@@ -35,7 +35,7 @@ brew install zbar
 2. InDesignのScripts Panelフォルダに入れます。
 
 　　例：
-　　　　/Users/ユーザー名/Library/Preferences/Adobe InDesign/Version XX.0-J/ja_JP/Scripts/Scripts Panel//Users/ユーザー名/Library/Preferences/Adobe InDesign/Version XX.0-J/ja_JP/Scripts/Scripts Panel/
+  /Users/ユーザー名/Library/Preferences/Adobe InDesign/Version XX.0-J/ja_JP/Scripts/Scripts Panel//Users/ユーザー名/Library/Preferences/Adobe InDesign/Version XX.0-J/ja_JP/Scripts/Scripts Panel/
 
 3. InDesignを起動します。
 4. ウィンドウ > ユーティリティ > スクリプト からスクリプトパネルを開きます。
